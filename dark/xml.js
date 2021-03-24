@@ -1,0 +1,1 @@
+{"nome":"Gabriel","nick":"Minato","sexo":"M - Masculino","numero":"5511934488829","yt":"https://youtube.com/channel/UCWZKMTuAI8t4ENaCftJxqQw","insta":"sem no momento","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVG0rLOqMdRj65ug6eguzTFEZq_nT3eioPKw&usqp=CAU"}
